@@ -7,7 +7,7 @@ This project demonstrates a push-button-based digital counter implemented using 
 The counter operates within a fixed range from 0 to 9, and once the maximum value is reached, it automatically resets to zero. This project highlights basic embedded concepts such as digital input handling, timing control, and serial communication.
 </p>
 <br>
-<h4><b>Components Used</b></h4>
+<h4><b>🔣 Components Used</b></h4>
 <ol>
     <li>Microcontroller board Arduino</li>
     <li>Push button</li>
@@ -16,12 +16,12 @@ The counter operates within a fixed range from 0 to 9, and once the maximum valu
     <li>Computer with Arduino IDE</li>
 </ol>
 <br>
-<h4><b>Working Principle</b></h4>
+<h4><b>⚙️ Working Principle</b></h4>
 <p>
 The push button is configured using INPUT_PULLUP mode. When the button is pressed, the microcontroller detects the change in state and increments the counter only if a predefined time interval has passed since the previous press. This ensures stable and accurate counting. The counter value is displayed on the Serial Monitor.
 </P>
 <br>
-<h4><br>Simulation</b></h4>
+<h4><br>🧪 Simulation</b></h4>
 <p>
 The project was simulated using Tinkercad to verify the circuit design and output behavior. Screenshots of the circuit diagram and Serial Monitor output are attached.
 
