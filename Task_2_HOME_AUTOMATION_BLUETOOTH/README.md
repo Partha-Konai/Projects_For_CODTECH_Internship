@@ -45,3 +45,10 @@ Successful Bluetooth connection message displayed on the Bluetooth terminal. Rel
 <p>
 This task helped in gaining hands-on experience with ESP32 Bluetooth communication and real-time hardware control. The project improved understanding of embedded programming, GPIO handling, and efficient command mapping. Overall, the implementation fulfills the objectives defined by CODTECH for Task 2 and strengthens practical skills in embedded systems development.
 </p>
+<br>
+<h4><b>👤 Intern Details</b></h4>
+<p>
+Name: Partha Konai
+<br>
+Internship Program: CODTECH – Embedded Systems
+</p>

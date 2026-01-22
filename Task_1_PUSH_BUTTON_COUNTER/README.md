@@ -43,5 +43,6 @@ This project demonstrates reliable push-button input handling and timing control
 <h4><b>👤 Intern Details</b></h4>
 <p>
 Name: Partha Konai
+<br>
 Internship Program: CODTECH – Embedded Systems
 </p>
