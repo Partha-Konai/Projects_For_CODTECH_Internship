@@ -1,6 +1,6 @@
 <h2>Bluetooth-Based Home Automation Using ESP32</h2>
 <br>
-<h4><b>📌 Project Overview</h4></b>
+<h4><b>📖 Project Overview</h4></b>
 <p>
     This project is developed as Task 2 of the CODTECH Internship Program. The objective of this task is to design and implement a Bluetooth-controlled relay system using an ESP32 microcontroller. The system allows wireless control of electrical loads through simple character-based commands.
 </p>
@@ -41,7 +41,7 @@
 <p>
 Successful Bluetooth connection message displayed on the Bluetooth terminal. Relay turns ON when commands A/B/C/D are sent. Relay turns OFF when commands W/X/Y/Z are sent. Confirmation messages are received for each relay operation.
 </p>
-<h4><b>🧾 Conclusion</b></h4>
+<h4><b>🏁 Conclusion</b></h4>
 <p>
 This task helped in gaining hands-on experience with ESP32 Bluetooth communication and real-time hardware control. The project improved understanding of embedded programming, GPIO handling, and efficient command mapping. Overall, the implementation fulfills the objectives defined by CODTECH for Task 2 and strengthens practical skills in embedded systems development.
 </p>

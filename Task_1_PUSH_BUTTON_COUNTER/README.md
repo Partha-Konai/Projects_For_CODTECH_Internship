@@ -1,6 +1,6 @@
 <h2>Push Button Counter - Embedded System</h2>
 <br>
-<h4><b>📌 Project Overview</b></h4>
+<h4><b>📖 Project Overview</b></h4>
 <p>
 This project demonstrates a push-button-based digital counter implemented using an embedded system. Each press of the push button increments the counter value by one, and the count is displayed on the Serial Monitor. To ensure accurate counting and avoid false triggers caused by mechanical button bounce, a non-blocking timing method using millis() is implemented instead of delay-based logic.
 
@@ -36,7 +36,7 @@ The project was simulated using Tinkercad to verify the circuit design and outpu
     <li>Counter resets to zero after reaching nine</li>
 </ul>
 <br>
-<h4><b>🧾 Conclusion</b></h4>
+<h4><b>🏁 Conclusion</b></h4>
 <p>
 This project demonstrates reliable push-button input handling and timing control in an embedded system. It provides a clear understanding of digital input processing without using blocking delays.
 </b>
