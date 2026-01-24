@@ -38,8 +38,8 @@
 <br>
 <h4><b>🧾 Sample Serial Monitor Output</b></h4>
 <p>
-    Temperature: 28 ℃
-    Temperature: 29 ℃
+    Temperature: 28 ℃<br>
+    Temperature: 29 ℃<br>
     Temperature: 30 ℃
 </p>
 <br>
