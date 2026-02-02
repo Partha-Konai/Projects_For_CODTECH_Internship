@@ -40,12 +40,12 @@ Voice (User) → Google Assistant / Gemini → Sinric Pro Cloud → ESP32 → GP
 </ul>
 <br>
 <h4><b>📚 Libraries Used</b></h4>
-<uL>
+<ul>
     <li>WiFi.h</li>
     <li>WebSocketsClient.h</li>
     <li>SinricPro.h</li>
     <li>SinricProSwitch.h</li>
-<ul>
+</ul>
 <br>
 <h4><b>🔌 Pin Configuration</b></h4>
 <table>
