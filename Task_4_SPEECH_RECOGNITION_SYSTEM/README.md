@@ -37,7 +37,7 @@ Voice (User) → Google Assistant / Gemini → Sinric Pro Cloud → ESP32 → GP
     <li>Sinric Pro Platform</li>
     <li>Google Home App</li>
     <li>Google Gemini (Voice Interface)</li>
-<ul>
+</ul>
 <br>
 <h4><b>📚 Libraries Used</b></h4>
 <uL>
@@ -51,7 +51,7 @@ Voice (User) → Google Assistant / Gemini → Sinric Pro Cloud → ESP32 → GP
 <table>
     <tr>
         <th>DEVICE</th>
-        <th>>ESP32 GPIO</th>
+        <th>ESP32 GPIO</th>
     </tr>
     <tr>
         <td>LED 1</td>
