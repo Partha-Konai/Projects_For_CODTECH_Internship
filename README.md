@@ -5,7 +5,7 @@
 This internship provided hands-on experience in Embedded Systems through four structured projects of increasing complexity. The work covered digital input handling, Bluetooth-based automation, sensor interfacing, and speech recognition systems using Arduino and ESP32 platforms. The internship emphasized practical implementation, hardware–software integration, debugging, and clear technical documentation.
 </p>
 <br><br>
-<h3><b>📌 Overview of the Tasks</b></h4>
+<h4><b>📌 Overview of the Tasks</b></h4>
 <table>
     <tr>
         <b>
